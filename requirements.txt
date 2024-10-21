@@ -1,0 +1,7 @@
+streamlit
+streamlit-drawable-canvas
+numpy
+pandas
+streamlit-javascript
+google-generativeai
+python-dotenv
