@@ -16,3 +16,6 @@ This repository contains the code for the streamlit version of the iOS 18 Notes 
 - User API Keys: Future updates will allow users to run the app using their own API keys for a personalized experience.
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your enhancements.
+
+## Demo
+Watch the demo: [Here](https://youtu.be/YDSipYYl1LA?si=0jYb8SjZ2M--Sj4b)
